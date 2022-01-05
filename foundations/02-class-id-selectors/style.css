@@ -1,0 +1,19 @@
+.odd-num {
+    background-color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#abc {
+    color: blue;
+    font-size: 36px;
+}
+
+.pqr,
+#xyz {
+    font-size: 24px;
+}
+
+#xyz {
+    background-color: lightgreen;
+    font-weight: bold;
+}
